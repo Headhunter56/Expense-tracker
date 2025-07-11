@@ -9,6 +9,6 @@ A simple command-line expense tracker written in Python. It allows users to add,
 - View total money spent
 - Filter expenses by category
 
-## How to Run
-```bash
-python expense_tracker.py
+## Futur  things to add
+-save expenses to file
+-load expenses from file
